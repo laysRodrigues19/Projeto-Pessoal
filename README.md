@@ -1,3 +1,3 @@
 # Projeto Pessoal do 2° Bimestre
 
-![VDD]()
+![VDD](assets/Img-PJT-Pessoal.PNG)
